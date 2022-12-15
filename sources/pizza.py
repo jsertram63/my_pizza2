@@ -4,6 +4,8 @@ RECIPES = {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
         'price': 10,
     },
+
+
     'marinara': {
         'ingredients': {'garlic': 2, 'basil': 3},
         'price': 9,
@@ -35,5 +37,11 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'my_pizza': {
+        'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
+        'price': 11,
     }
+
+
 }
